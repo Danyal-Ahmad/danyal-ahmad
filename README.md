@@ -5,7 +5,7 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
 <br/>
 
 <div align="center">
-    <img src="https://opening.download/spring-2021.html" alt=" Hacker GIF" />
+    <img src="https://cdnl.iconscout.com/lottie/free/thumb/free-hacker-using-laptop-9941478-8106679.gif" alt=" Hacker GIF" />
 </div>
 
 ### 🚀 About Me
