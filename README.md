@@ -40,10 +40,6 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br>
-    <h2👨🏻‍💻 My Coding 👨🏻‍💻</h2>
-  <br>
-    <img alt="My coding" width="200" src="https://github.com/Danyal-Ahmad/danyal-ahmad/assets/75643229/0adcc2cc-6a42-4007-b5c5-f38523a423d1" />
-  <br/><br/><br/>
 </div>
 
 </div>
@@ -51,3 +47,7 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
 ### 📈 GitHub Stats
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=danyal-ahmad&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=danyal-ahmad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="right" style="position: absolute;">
+
+    <img alt="My coding" width="200" src="https://github.com/Danyal-Ahmad/danyal-ahmad/assets/75643229/0adcc2cc-6a42-4007-b5c5-f38523a423d1" />
+</div>
