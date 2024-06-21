@@ -2,9 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danyal+Ahmad!;" />
 </h1>
 I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & mobile apps, Snapchat filters, and Meta Spark AR.
+<br/>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Millitics Hacker GIF" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fawcounselling.co.uk%2Fhttp%2Fger.animalia-life.club%2FHacker-GIF&psig=AOvVaw1z5hVBmMIfE0Gu1Bt3mvUQ&ust=1719078865267000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNC09_yh7YYDFQAAAAAdAAAAABA3" alt=" Hacker GIF" />
 </div>
 
 ### 🚀 About Me
