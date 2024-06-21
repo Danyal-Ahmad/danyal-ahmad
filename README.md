@@ -4,27 +4,14 @@
 I'm a versatile developer specializing in web & mobile apps, Snapchat filters, and Meta Spark AR.
 <br/>
 
-
-### 🚀 About Me
-- 🌐 **Web Development:** Crafting responsive and user-friendly websites.
-- 📱 **App Development:** Building sleek and efficient mobile apps.
-- 🎨 **Snapchat Filters:** Creating fun and engaging filters.
-- ✨ **Meta Spark AR:** Developing captivating AR experiences.
-  <br>
-
-
-### 💡 Experties 
-
-    
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
-![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white) 
-
-
-<br/>
+<div align="center">
+<h1 align="center">A B O U T</h1>
+🌐 **Web Development:** Crafting responsive and user-friendly websites.
+📱 **App Development:** Building sleek and efficient mobile apps.
+🎨 **Snapchat Filters:** Creating fun and engaging filters.
+✨ **Meta Spark AR:** Developing captivating AR experiences.
+</div><br>
+x
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
