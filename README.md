@@ -19,12 +19,6 @@ I'm **Danyal Ahmad**, a versatile developer specializing in web & mobile apps, S
 ### 📈 GitHub Stats
 ![Danyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-### 📈 GitHub Stats
-![Danyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-### 🎨 Fun Stuff
-![Random GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/danyal-ahmaad)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/denial_khxn/)
