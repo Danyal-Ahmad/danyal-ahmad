@@ -39,10 +39,10 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <br>
     <h2👨🏻‍💻 My Coding 👨🏻‍💻</h2>
   <br>
-    <img alt="My coding" src="https://github.com/Danyal-Ahmad/danyal-ahmad/assets/75643229/0adcc2cc-6a42-4007-b5c5-f38523a423d1" />
+    <img alt="My coding" width="200" src="https://github.com/Danyal-Ahmad/danyal-ahmad/assets/75643229/0adcc2cc-6a42-4007-b5c5-f38523a423d1" />
   <br/><br/><br/>
 </div>
 
