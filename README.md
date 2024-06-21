@@ -43,7 +43,8 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
     <div style="text-align: center; color: #0F0; font-family: monospace;">
   <h2>🐍 My Coding 🐍</h2>
   <br>
-  <img alt="hacker image" src="https://i.pinimg.com/originals/f5/4b/5a/f54b5a9b5b03d9d351f2a9c8a7b7e800.jpg" />
+ ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://github.com/Danyal-Ahmad/danyal-ahmad/assets/75643229/3d4c455b-578c-4fef-8da2-b3fc7cd19e8f)
+
   
   <br/><br/><br/>
 </div>
