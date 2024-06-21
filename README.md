@@ -25,8 +25,9 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
@@ -51,5 +52,9 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
 <img width="300" src="https://github-readme-stats-salesp07.vercel.app/api?username=danyal-ahmad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
+<br/>
 ### 🗒️ Footer
+<div align="center">
 <img alt="My coding" style="position: absolute;" width="300" src="https://github.com/Danyal-Ahmad/danyal-ahmad/assets/75643229/fed895d4-3b57-4404-a6aa-fe27e477088e" />
+</div>
+<br/>
