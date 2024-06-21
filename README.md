@@ -35,7 +35,10 @@ I'm **Danyal Ahmad**, a versatile developer specializing in web & mobile apps, S
 </div>
 
 ### 📈 GitHub Stats
-![Danyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Danyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyal-ahmadd&show_icons=true&theme=radical)
+ <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=danyal-ahmad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br/><br/>
+
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/danyal-ahmaad)
