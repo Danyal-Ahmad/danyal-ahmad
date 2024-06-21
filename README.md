@@ -39,8 +39,15 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+    <div style="text-align: center; color: #0F0; font-family: monospace;">
+  <h2>🐍 My Coding 🐍</h2>
+  <br>
+  <img alt="hacker image" src="https://i.pinimg.com/originals/f5/4b/5a/f54b5a9b5b03d9d351f2a9c8a7b7e800.jpg" />
   
   <br/><br/><br/>
+</div>
+
 </div>
 
 ### 📈 GitHub Stats
