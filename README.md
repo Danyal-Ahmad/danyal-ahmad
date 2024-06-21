@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danyal+Ahmad!;" />
 </h1>
@@ -14,11 +13,8 @@ I'm **Danyal Ahmad**, a versatile developer specializing in web & mobile apps, S
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/danyal-ahmaad)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/denial_khxn/)
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
- <br>
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:danyalahmaad.pjb@gmail.com)
+
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -47,8 +43,5 @@ I'm **Danyal Ahmad**, a versatile developer specializing in web & mobile apps, S
 
 ### 📈 GitHub Stats
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=danyal-ahmad&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
- <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=danyal-ahmad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=danyal-ahmad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br/><br/><br/>
-
-
-
