@@ -15,7 +15,7 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/danyal-ahmaad)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/denial_khxn/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:danyalahmaad.pjb@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=white)](mailto:danyalahmaad.pjb@gmail.com)
 
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -46,4 +46,4 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
 ### 📈 GitHub Stats
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=danyal-ahmad&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=danyal-ahmad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
- <img width="250" src="https://cdnl.iconscout.com/lottie/premium/thumb/hacker-4864990-4055889.gif" alt="Millitics Hacker GIF" />
+ <img width="250" style="position:absolute;" src="https://cdnl.iconscout.com/lottie/premium/thumb/hacker-4864990-4055889.gif" alt="Millitics Hacker GIF" />
