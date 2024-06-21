@@ -12,8 +12,8 @@ I'm a versatile developer specializing in web & mobile apps, Snapchat filters, a
 - ✨ **Meta Spark AR:** Developing captivating AR experiences.
   <br>
 
-<div align="center">
-<h2> 💡 Experties </h2> 
+
+### 💡 Experties 
 
     
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
@@ -22,7 +22,7 @@ I'm a versatile developer specializing in web & mobile apps, Snapchat filters, a
 ![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white) 
-</div>
+
 
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
