@@ -7,10 +7,10 @@ I'm a versatile developer specializing in web & mobile apps, Snapchat filters, a
 <div align="center">
 <h1 align="center">A B O U T</h1>
     
-🌐 **Web Development:** Crafting responsive and user-friendly websites.
-📱 **App Development:** Building sleek and efficient mobile apps.
-🎨 **Snapchat Filters:** Creating fun and engaging filters.
-✨ **Meta Spark AR:** Developing captivating AR experiences.
+🌐 **Web Development:** Crafting responsive and user-friendly websites. </br>
+📱 **App Development:** Building sleek and efficient mobile apps. </br>
+🎨 **Snapchat Filters:** Creating fun and engaging filters.</br>
+✨ **Meta Spark AR:** Developing captivating AR experiences.</br>
 </div><br>
 x
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
