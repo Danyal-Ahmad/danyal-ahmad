@@ -14,13 +14,14 @@ I'm a versatile developer specializing in web & mobile apps, Snapchat filters, a
 
 
 ### Technologies Used
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) <br>
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  <br>
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  <br>
-![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=white) <br>
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white) <br>
+<div align="center">
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
+![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white) 
+</div>
 
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
