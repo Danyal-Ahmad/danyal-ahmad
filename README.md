@@ -40,8 +40,10 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
-    <div style="text-align: center; color: #0F0; font-family: monospace;">
-  <br> (https://github.com/Danyal-Ahmad/danyal-ahmad/assets/75643229/0adcc2cc-6a42-4007-b5c5-f38523a423d1) <br>
+    <h2👨🏻‍💻 My Coding 👨🏻‍💻</h2>
+  <br>
+    <img alt="My coding" src="https://github.com/Danyal-Ahmad/danyal-ahmad/assets/75643229/0adcc2cc-6a42-4007-b5c5-f38523a423d1" />
+  <br/><br/><br/>
 </div>
 
 </div>
