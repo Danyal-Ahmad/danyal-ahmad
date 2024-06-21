@@ -1,7 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danyal+Ahmad!;" />
 </h1>
-I'm **Danyal Ahmad**, a versatile developer specializing in web & mobile apps, Snapchat filters, and Meta Spark AR.
+I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & mobile apps, Snapchat filters, and Meta Spark AR.
+
+<div align="center">
+    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Millitics Hacker GIF" />
+</div>
 
 ### 🚀 About Me
 - 🌐 **Web Development:** Crafting responsive and user-friendly websites.
@@ -44,4 +48,4 @@ I'm **Danyal Ahmad**, a versatile developer specializing in web & mobile apps, S
 ### 📈 GitHub Stats
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=danyal-ahmad&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=danyal-ahmad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br/><br/><br/>
+
