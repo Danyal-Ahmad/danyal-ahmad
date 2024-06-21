@@ -7,7 +7,7 @@ I'm a versatile developer specializing in web & mobile apps, Snapchat filters, a
 <br/>
 
 <div align="center">
-<h1 align="center">A B O U T</h1>
+<h1 align="center">👾 A B O U T 👾</h1>
     
 🌐 **Web Development:** Crafting responsive and user-friendly websites. </br>
 📱 **App Development:** Building sleek and efficient mobile apps. </br>
