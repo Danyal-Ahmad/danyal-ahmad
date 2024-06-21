@@ -4,9 +4,6 @@
 I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & mobile apps, Snapchat filters, and Meta Spark AR.
 <br/>
 
-<div align="center">
-    <img src="https://cdnl.iconscout.com/lottie/premium/thumb/hacker-4864990-4055889.gif" alt="Millitics Hacker GIF" />
-</div>
 
 ### 🚀 About Me
 - 🌐 **Web Development:** Crafting responsive and user-friendly websites.
@@ -48,7 +45,8 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
 
 ### 📈 GitHub Stats
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=danyal-ahmad&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=danyal-ahmad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <div align="right">
-    <img src="https://cdnl.iconscout.com/lottie/premium/thumb/hacker-4864990-4055889.gif" alt="Millitics Hacker GIF" />
+    <img width="250" src="https://cdnl.iconscout.com/lottie/premium/thumb/hacker-4864990-4055889.gif" alt="Millitics Hacker GIF" />
 </div>
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=danyal-ahmad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
