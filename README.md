@@ -48,6 +48,6 @@ I'm <strong>Danyal Ahmad</strong>, a versatile developer specializing in web & m
 <img width="300" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=danyal-ahmad&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     
 <img width="300" src="https://github-readme-stats-salesp07.vercel.app/api?username=danyal-ahmad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-<img alt="My coding" style="position: absolute;" width="300" src="https://github.com/Danyal-Ahmad/danyal-ahmad/assets/75643229/0adcc2cc-6a42-4007-b5c5-f38523a423d1" />
-
+<div align="inline">
+<img alt="My coding" style="position: absolute;" width="300" src="https://github.com/Danyal-Ahmad/danyal-ahmad/assets/75643229/fed895d4-3b57-4404-a6aa-fe27e477088e" />
+</div>
