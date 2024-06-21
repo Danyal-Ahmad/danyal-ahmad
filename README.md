@@ -1,4 +1,3 @@
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danyal-ahmad.danyal-ahmad" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danyal+Ahmad!;" />
@@ -10,7 +9,16 @@ I'm **Danyal Ahmad**, a versatile developer specializing in web & mobile apps, S
 - 📱 **App Development:** Building sleek and efficient mobile apps.
 - 🎨 **Snapchat Filters:** Creating fun and engaging filters.
 - ✨ **Meta Spark AR:** Developing captivating AR experiences.
+  <br>
 
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/danyal-ahmaad)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/denial_khxn/)
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+ <br>
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -43,6 +51,4 @@ I'm **Danyal Ahmad**, a versatile developer specializing in web & mobile apps, S
 <br/><br/><br/>
 
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/danyal-ahmaad)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/denial_khxn/)
+
