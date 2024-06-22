@@ -14,7 +14,7 @@ I'm a versatile developer specializing in web & mobile apps, Snapchat filters, a
 🎨 **Snapchat Filters:** Creating fun and engaging filters.</br>
 ✨ **Meta Spark AR:** Developing captivating AR experiences.</br>
 </div><br>
-x
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
