@@ -7,10 +7,10 @@ I'm a versatile developer specializing in web & mobile apps, Snapchat filters, a
 <br/>
 
 <div align="center">
-<h1 align="center">👻 A B O U T 👻</h1>
-   <a href="https://github.com/Danyal-Ahmad">
+<h1 align="center">👻 A B O U T 👻 |  <a href="https://github.com/Danyal-Ahmad">
         <img src="https://img.shields.io/github/followers/Danyal-Ahmad?label=Follow&style=social" alt="GitHub User Count"/>
-    </a>
+    </a></h1>
+  
     
 🌐 **Web Development:** Crafting responsive and user-friendly websites. </br>
 📱 **App Development:** Building sleek and efficient mobile apps. </br>
