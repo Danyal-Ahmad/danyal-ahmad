@@ -53,7 +53,7 @@ I'm a versatile developer specializing in web & mobile apps, Snapchat filters, a
 
 ---
 
-![GIF](https://github.com/Danyal-Ahmad/danyal-ahmad/assets/75643229/720b1f6f-41ef-41c2-b00f-fb1abf198d41)
+[![GIF](https://github.com/Danyal-Ahmad/danyal-ahmad/assets/75643229/720b1f6f-41ef-41c2-b00f-fb1abf198d41)](https://bio.link/denial_khxn)
 
 ---
 
