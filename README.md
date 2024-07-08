@@ -43,13 +43,14 @@ I'm a versatile developer specializing in web & mobile apps, Snapchat filters, a
 
 <div align="center">
      <h2>📫 Connect with Me 📫</h2>
-    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/danyal-ahmaad)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/denial_khxn/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=white)](mailto:danyalahmaad.pjb@gmail.com)
 </div>
+
+<br>
 <div align="center">
-     <h2👤 Profile Followers 👤h2>
+     <h2>👤 Profile Followers 👤</h2>
     <a href="https://github.com/Danyal-Ahmad">
         <img src="https://img.shields.io/github/followers/Danyal-Ahmad?label=Follow&style=social" alt="GitHub User Count"/>
     </a>
