@@ -57,3 +57,8 @@ I'm a versatile developer specializing in web & mobile apps, Snapchat filters, a
 
 ---
 
+<a href="https://github.com/angular/angular-ja/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=angular/angular-ja" />
+</a>
+
+
