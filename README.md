@@ -59,7 +59,7 @@ I'm a versatile developer specializing in web & mobile apps, Snapchat filters, a
 
 <p align="center">
   <a href="https://github.com/angular/angular-ja/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=angular/angular-ja&max=20" alt="Contributors" />
+    <img src="https://contrib.rocks/image?repo=angular/angular-ja&max=38&columns=10&anon=5" alt="Contributors" />
   </a>
 </p>
 
