@@ -4,34 +4,35 @@
 <!--  All data is REAL · Auto-pulled from github.com/Danyal-Ahmad           -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
+<!-- ── Top: Capsule-render waving gradient header (unique graphic) ──── -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:00D9FF&height=220&section=header&text=DANYAL%20AHMAD&fontSize=72&fontColor=00D9FF&fontAlignY=35&stroke=00D9FF&strokeWidth=1&animation=fadeIn&desc=AI%20%C2%B7%20ML%20Engineer%20%C2%B7%20Lahore%2C%20PK&descAlignY=60&descSize=18&descColor=A9B1D6" alt="Header" />
+</div>
+
 <div align="center">
 
-<!-- ── Terminal-style animated header ──────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=300&color=00D9FF&center=true&vCenter=true&width=580&lines=%E2%96%88%E2%96%88%E2%96%88+DANYAL+AHMAD+%E2%96%88%E2%96%88%E2%96%88;%3E+AI+%C2%B7+ML+Engineer;%3E+CS+Undergrad+%C2%B7+Lahore%2C+PK;%3E+Open+to+Work;%3E+_" alt="Terminal header" />
+<!-- ── Terminal boot-sequence typing animation ─────────────────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=300&color=00D9FF&center=true&vCenter=true&width=520&lines=%3E+Initializing+developer+profile...;%3E+Loading+AI%2FML+stack...;%3E+Compiling+neural+networks...;%3E+Ready.+Let%27s+build." alt="Typing" />
 
 <br/>
 
-<!-- ── Status chips — recruiter scan-friendly ──────────────────────── -->
+<!-- ── LIVE GitHub profile summary card (instant real data, no workflow) ── -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danyal-Ahmad&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=A9B1D6" alt="Profile summary card" />
+
+<br/><br/>
+
+<!-- ── Status pills ────────────────────────────────────────────────── -->
 <p>
   <a href="mailto:danyalahmad.pjb@gmail.com"><img src="https://img.shields.io/badge/OPEN_TO-WORK-00D9FF?style=flat-square&labelColor=0D1117" alt="Open to Work" /></a>
-  <img src="https://img.shields.io/badge/AI-ML_Engineer-00D9FF?style=flat-square&labelColor=0D1117" alt="AI/ML Engineer" />
+  <img src="https://img.shields.io/badge/AI-ML_Engineer-00D9FF?style=flat-square&labelColor=0D1117" alt="AI/ML" />
   <img src="https://img.shields.io/badge/LOC-Lahore%2C_PK-00D9FF?style=flat-square&labelColor=0D1117" alt="Location" />
-  <img src="https://img.shields.io/badge/EDU-CS_Undergrad-00D9FF?style=flat-square&labelColor=0D1117" alt="CS Undergrad" />
+  <img src="https://img.shields.io/badge/EDU-CS_Undergrad-00D9FF?style=flat-square&labelColor=0D1117" alt="CS" />
 </p>
 
-<!-- ── Visit counter (komarev — clean & professional) ─────────────── -->
+<!-- ── Visit counter (komarev — clean & professional) ──────────────── -->
 <img src="https://komarev.com/ghpvc/?username=Danyal-Ahmad&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 
-<br/>
-
-<!-- ── "Live" status indicator ─────────────────────────────────────── -->
-<p>
-  <img src="https://img.shields.io/badge/STATUS-Online-9ECE6A?style=flat-square&logo=googlechat&logoColor=white&labelColor=0D1117" alt="Status" />
-  <img src="https://img.shields.io/badge/BUILDING-Intelligent_Systems-00D9FF?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Building" />
-  <img src="https://img.shields.io/badge/SHIPPING-End_to_End-9ECE6A?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Shipping" />
-</p>
-
-<br/>
+<br/><br/>
 
 <em>"Building intelligent systems that feel invisible."</em>
 
@@ -40,32 +41,49 @@
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  // 01 — ABOUT                                                   -->
+<!--  // 01 — ABOUT  (professional shell session)                     -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## `// 01` &nbsp; About
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20emojis/Waving%20Hand.png" width="28" /> &nbsp; `// 01` &nbsp; About
 
 <div align="center">
 
 **Computer Science undergraduate** based in **Lahore, Pakistan** — building intelligent systems across **deep learning**, **LLM agents & RAG**, **computer vision**, and **intelligent web apps**. Research-grounded, production-optimized, shipped end-to-end.
 
+</div>
+
 <br/>
 
-```
-$ whoami
-> Danyal Ahmad · CS Undergrad · Lahore, PK
+```bash
+danyal@ahmad-dev:~/profile $ whoami
+> Danyal Ahmad — AI/ML Engineer based in Lahore, Pakistan
 
-$ cat focus.txt
-> AI · ML · LLM Agents · RAG · Computer Vision
+danyal@ahmad-dev:~/profile $ cat role.md
+> CS Undergraduate @ Minhaj University Lahore (2024 → 2026)
+> Focus: Deep learning · LLM agents · RAG pipelines · Computer vision
 
-$ uptime
+danyal@ahmad-dev:~/profile $ ls -la focus/
+drwxr-xr-x  llm-agents/      LangChain orchestration · ReAct · tooling
+drwxr-xr-x  rag-pipelines/   Chunking · cross-encoder re-ranking · citations
+drwxr-xr-x  computer-vision/ YOLOv8 · OpenCV · ONNX · edge inference
+drwxr-xr-x  edge-inference/  TFLite · INT8 quantization · browser-side
+
+danyal@ahmad-dev:~/profile $ git log --oneline -5
+4f8a12b  feat: LangChain agent with vector retrieval + ReAct
+9c2e3d4  perf: cross-encoder re-ranking → recall@5 = 0.89
+b1d3f6a  feat: YOLOv8 INT8 quantization for edge deployment
+a7f2c5e  perf: TFLite CNN inference in 380ms on mid-range phone
+5e9c8d1  init: began CS undergraduate degree at Minhaj
+
+danyal@ahmad-dev:~/profile $ uptime
 > Building since 2022 · 8+ projects shipped · 6+ models in production
 
-$ echo $PHILOSOPHY
-> "Models that ship are worth more than models that score."
-```
+danyal@ahmad-dev:~/profile $ echo $PHILOSOPHY
+> "Models that ship are worth more than models that score.
+>  Research-grounded. Production-optimized. Shipped end-to-end."
 
-</div>
+danyal@ahmad-dev:~/profile $ _
+```
 
 <br/>
 
@@ -73,7 +91,7 @@ $ echo $PHILOSOPHY
 <!--  // 02 — STACK  (skillicons ONLY)                                -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## `// 02` &nbsp; Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp; `// 02` &nbsp; Stack
 
 <div align="center">
 
@@ -101,14 +119,13 @@ $ echo $PHILOSOPHY
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  // 03 — GITHUB STATS  (extended)                                -->
+<!--  // 03 — GITHUB STATS  (reduced — clean & focused)               -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## `// 03` &nbsp; GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp; `// 03` &nbsp; GitHub Stats
 
 <div align="center">
 
-<!-- Row 1: Stats · Streak · Top Languages (compact) -->
 <table>
   <tr>
     <td width="33%" align="center">
@@ -123,25 +140,7 @@ $ echo $PHILOSOPHY
   </tr>
 </table>
 
-<!-- Row 2: Detailed Stats Card (issues, PRs, reviews, contributions) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Danyal-Ahmad&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&show=reviews,discussions_started,discussions_closed,prs,prs_merged&border_radius=12&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Detailed stats" />
-
-<br/><br/>
-
-<!-- Row 3: Classic GitHub contribution chart (green squares) -->
-<a href="https://github.com/Danyal-Ahmad">
-  <img src="https://ghchart.rshah.org/00D9FF/Danyal-Ahmad" alt="GitHub contribution chart" />
-</a>
-
-<br/><br/>
-
-<!-- Row 4: Activity graph — area-filled -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danyal-Ahmad&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=BB9AF7&height=260&bg_color=0D1117" alt="Activity graph" />
-
-<br/><br/>
-
-<!-- Row 5: Detailed language breakdown SVG (auto-generated by metrics-languages.yml) -->
-<img src="https://raw.githubusercontent.com/Danyal-Ahmad/Danyal-Ahmad/main/github-languages.svg" alt="Language breakdown" />
 
 </div>
 
@@ -151,7 +150,7 @@ $ echo $PHILOSOPHY
 <!--  // 04 — CONTRIBUTION ATLAS  (snake + 3D rainbow only)           -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## `// 04` &nbsp; Contribution Atlas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="28" /> &nbsp; `// 04` &nbsp; Contribution Atlas
 
 <div align="center">
 
@@ -176,66 +175,89 @@ $ echo $PHILOSOPHY
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  // 05 — LATEST ARTICLES  (auto-pulled from RSS)                 -->
+<!--  // 05 — CURRENTLY BUILDING  (paragraph)                          -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## `// 05` &nbsp; Latest Articles
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp; `// 05` &nbsp; Currently Building
+
+I'm currently building **production-grade AI systems** that bridge research and real-world deployment. The work spans three primary tracks, each with measurable outcomes:
+
+**`LLM Agents & RAG Pipelines`** — Designing LangChain-orchestrated agents with vector retrieval, ReAct-style tool layers, and grounded citations. The focus is on retrieval quality — recursive chunking, cross-encoder re-ranking, and critique steps that grade retrieval before the LLM answers. Recall@5 moved from 0.71 (naive) to 0.89 (with re-ranking) on a hand-verified 200-pair test harness.
+
+**`Edge Inference for Computer Vision`** — Porting YOLOv8-nano to ONNX with INT8 quantization, running real-time on a Coral USB accelerator. The pattern is consistent: train in PyTorch, export to ONNX, calibrate with a domain-specific dataset, deploy to edge hardware. mAP 0.47 preserved at INT8 — a 0.03 drop from FP32, well within tolerance.
+
+**`Browser-Side ML`** — Converting CNNs to TensorFlow Lite for client-side inference. CardioVision proved the pattern works for medical audio: 380ms inference on a mid-range phone, no GPU, no API calls, no patient data leaving the browser. The same scaffold now extends to ECG waveform classification and cough-based respiratory screening.
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  // 06 — WHAT I'M LEARNING  (paragraph + table)                  -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28" /> &nbsp; `// 06` &nbsp; What I'm Learning
+
+I treat learning as a dependency-sequenced path, not a logo collection. The principle: one stack understood deeply and shipped beats a dozen frameworks touched once. Right now, the daily practice looks like this:
 
 <div align="center">
-<sub>Auto-pulled from RSS feeds · updated hourly by <code>blog-posts.yml</code></sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>DEEPENING</b></sub><br/><br/>
+      <code>LangChain</code> orchestration patterns<br/>
+      <code>Vector databases</code> — ChromaDB, FAISS<br/>
+      <code>Cross-encoder</code> re-ranking techniques<br/>
+      <code>TensorFlow Lite</code> INT8 quantization<br/>
+      <code>ONNX</code> export & calibration
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>EXPLORING</b></sub><br/><br/>
+      <code>Agentic workflows</code> — ReAct, tool-use<br/>
+      <code>RAG</code> evaluation harnesses<br/>
+      <code>Prompt engineering</code> as a discipline<br/>
+      <code>Fine-tuning</code> transformer models<br/>
+      <code>Browser-side</code> ML inference
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
 
-<!-- Auto-updated by .github/workflows/blog-posts.yml — do not edit by hand -->
-<!--START_SECTION:blog-posts-->
-<!--END_SECTION:blog-posts-->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  // 07 — ENGINEERING PHILOSOPHY  (bullets)                       -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp; `// 07` &nbsp; Engineering Philosophy
+
+- **Ship it, then explain it.** A deployed system plus a clear trade-off narrative beats a perfect solution I can't articulate.
+- **Reliability and clarity first.** Correct, readable, maintainable code over clever one-liners. The cleverness tax shows up six months later.
+- **Fundamentals compound.** Data structures, systems thinking, and consistent practice are the foundation everything else sits on.
+- **Research-grounded.** Read the paper, prototype fast, measure honestly, ship something a real user can touch.
+- **Models that ship > models that score.** Production impact is the only metric that matters.
 
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  // 06 — CODING ACTIVITY  (WakaTime — optional)                  -->
+<!--  // 08 — DEV QUOTE  (LIVE widget — works without workflow)       -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## `// 06` &nbsp; Coding Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Thinking%20Face.png" width="28" /> &nbsp; `// 08` &nbsp; Dev Quote
 
 <div align="center">
-<sub>Powered by <a href="https://wakatime.com/">WakaTime</a> · auto-updated daily by <code>waka-time.yml</code><br/>Requires <code>WAKATIME_API_KEY</code> secret — see SETUP.md</sub>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&border_color=00D9FF" alt="Random Dev Quote" />
+
 </div>
 
 <br/>
 
-<!-- Auto-updated by .github/workflows/waka-time.yml — do not edit by hand -->
-<!--START_SECTION:waka-->
-<!-- `WAKATIME_API_KEY` not yet configured — add the secret and run the workflow. -->
-<!--END_SECTION:waka-->
-
-<br/>
-
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  // 07 — DAILY QUOTE  (auto-updated)                             -->
+<!--  // 09 — CONNECT  (GitHub · LinkedIn · Email only)              -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## `// 07` &nbsp; Daily Quote
-
-<div align="center">
-<sub>Refreshed every 24h by <code>daily-quote.yml</code></sub>
-</div>
-
-<br/>
-
-<!-- Auto-updated by .github/workflows/daily-quote.yml — do not edit by hand -->
-<!--START_SECTION:quote-->
-<!-- Daily quote will appear here after the first workflow run. -->
-<!--END_SECTION:quote-->
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--  // 08 — CONNECT  (GitHub · LinkedIn · Email only)              -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## `// 08` &nbsp; Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index.png" width="28" /> &nbsp; `// 09` &nbsp; Connect
 
 <div align="center">
 
@@ -249,15 +271,27 @@ $ echo $PHILOSOPHY
 
 <br/>
 
-<!-- ── Closing divider ─────────────────────────────────────────────── -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+<!-- ── Built-with sticker row ──────────────────────────────────────── -->
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/Built_with-Python-00D9FF?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
+  <img src="https://img.shields.io/badge/Powered_by-AI-00D9FF?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0D1117" alt="AI" />
+  <img src="https://img.shields.io/badge/Hosted_on-GitHub-00D9FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Made_with-%E2%9D%A4-FF6B9D?style=flat-square&logo=probot&logoColor=white&labelColor=0D1117" alt="Made with love" />
 </p>
+
+</div>
+
+<br/>
+
+<!-- ── Capsule-render waving gradient footer (unique graphic) ──────── -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:00D9FF&height=140&section=footer&text=Let%27s%20build%20together&fontSize=24&fontColor=00D9FF&fontAlignY=70&animation=fadeIn" alt="Footer" />
+</div>
 
 <div align="center">
 
-<sub><i>CS Undergraduate · AI / ML Engineer · Lahore, Pakistan</i></sub>
-<br/>
-<sub><i>Built in public · Designed with intent · Animated on purpose</i></sub>
+<sub><i>Stay curious · Ship often · Document everything</i></sub>
 
 </div>

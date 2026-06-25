@@ -1,10 +1,5 @@
 name: Language Breakdown SVG
 
-# Generates a second, language-focused metrics SVG (github-languages.svg)
-# with a more detailed breakdown: bytes, percentages, recent activity.
-# Different from metrics.yml which produces the general dashboard.
-# Pushes the SVG to main, where the README references it.
-
 on:
   schedule:
     - cron: "0 6 * * *"
@@ -30,22 +25,12 @@ jobs:
           template: terminal
           base: ""
           config_timezone: Asia/Karachi
-          # Languages plugin — detailed breakdown
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_limit: 12
           plugin_languages_sections: most-used, recently-used
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
-          # Follow-up: shows recent repo activity per language
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          # Achievements: compact badges
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: no
-          plugin_achievements_display: compact
-          plugin_achievements_limit: 5
           output_filename: github-languages.svg
 
       - name: Commit updated languages SVG

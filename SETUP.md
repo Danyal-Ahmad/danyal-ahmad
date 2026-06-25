@@ -1,6 +1,6 @@
-# Setup Guide — Danyal Ahmad's Profile README (Extended Edition)
+# Setup Guide — Danyal Ahmad's Profile README (v4 · Unique Edition)
 
-This zip contains everything you need to make your GitHub profile README fully alive — **8 workflows**, 4 new auto-updating sections, real data throughout, cyberpunk terminal aesthetic on pure black with electric cyan.
+This zip contains a clean, professional, unique GitHub profile README with cyberpunk terminal aesthetic on pure black with electric cyan.
 
 ## 1. Push to your PROFILE repo
 
@@ -14,99 +14,104 @@ Danyal-Ahmad/
 ├── SETUP.md
 └── .github/
     └── workflows/
-        ├── snake.yml              ← snake animation
-        ├── metrics.yml            ← general metrics dashboard
-        ├── profile-3d.yml         ← 3D rainbow calendar
-        ├── activity.yml           ← recent activity (hidden, kept for re-enable)
-        ├── blog-posts.yml         ← NEW: RSS auto-pull into README
-        ├── waka-time.yml          ← NEW: WakaTime coding stats
-        ├── daily-quote.yml        ← NEW: daily dev quote auto-update
-        └── metrics-languages.yml  ← NEW: detailed language breakdown SVG
+        ├── snake.yml              ← snake animation (visible in // 04)
+        ├── metrics.yml            ← general metrics SVG (kept in repo, not displayed)
+        ├── profile-3d.yml         ← 3D rainbow calendar (visible in // 04)
+        ├── metrics-languages.yml  ← language breakdown SVG (kept in repo, not displayed)
+        └── activity.yml           ← recent activity (hidden — can re-enable)
 ```
 
-## 2. Create repo secrets
+## 2. Create one secret
 
-### Required (1 secret)
-| Secret name | Where to get it |
-|---|---|
-| `METRICS_TOKEN` | GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens. Scope to `Danyal-Ahmad/Danyal-Ahmad` with **Contents: Read and write** + **Metadata: Read-only**. |
+The `metrics.yml` and `metrics-languages.yml` workflows need a Personal Access Token:
 
-### Optional (1 secret — enables // 06 Coding Activity)
-| Secret name | Where to get it |
-|---|---|
-| `WAKATIME_API_KEY` | Sign up at https://wakatime.com (free), install the editor plugin, then copy your API key from https://wakatime.com/settings/account |
+1. **GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens**
+2. Generate a token scoped to `Danyal-Ahmad/Danyal-Ahmad` with **Contents: Read and write** + **Metadata: Read-only**
+3. **Repo → Settings → Secrets and variables → Actions → New repository secret**
+4. Name it `METRICS_TOKEN`, paste the token
 
-The other 6 workflows use the built-in `GITHUB_TOKEN` — no setup needed.
+The other workflows use the built-in `GITHUB_TOKEN`.
 
 ## 3. Trigger each workflow once
 
 Go to **Actions → Run workflow** for each:
 
-| Workflow | Output | Secret needed? |
+| Workflow | Output | Visible in README? |
 |---|---|---|
-| `Generate Snake Animation` | `output` branch | — |
-| `GitHub Profile 3D Contribution` | `output-3d-contrib` branch | — |
-| `Metrics` | commits `github-metrics.svg` to `main` | `METRICS_TOKEN` |
-| `Language Breakdown SVG` | commits `github-languages.svg` to `main` | `METRICS_TOKEN` |
-| `Latest Blog Posts` | fills `<!--START_SECTION:blog-posts-->` in `main` | — |
-| `WakaTime Coding Stats` | fills `<!--START_SECTION:waka-->` in `main` | `WAKATIME_API_KEY` |
-| `Daily Dev Quote` | fills `<!--START_SECTION:quote-->` in `main` | — |
-| `Recent Activity` | (no-op — section hidden, can re-enable) | — |
+| `Generate Snake Animation` | `output` branch | ✅ Yes — `// 04` |
+| `GitHub Profile 3D Contribution` | `output-3d-contrib` branch | ✅ Yes — `// 04` |
+| `Metrics` | commits `github-metrics.svg` to `main` | No (kept for reference) |
+| `Language Breakdown SVG` | commits `github-languages.svg` to `main` | No (kept for reference) |
+| `Recent Activity` | (no-op — section hidden) | No |
 
-After the first manual run, everything auto-updates on its schedule (hourly / daily).
+## 4. README sections (9 sections, all working)
 
-## 4. README sections (extended to 8)
-
-| # | Section | Live? |
+| # | Section | Status |
 |---|---|---|
-| `// 01` | About — CS undergrad, Lahore, AI/ML focus | ✅ Real content |
+| `// 01` | About — professional bash shell session | ✅ Real content |
 | `// 02` | Stack — skillicons only, 4 rows | ✅ Real |
-| `// 03` | GitHub Stats — extended (stats + streak + top langs + detailed card + classic chart + activity graph + language SVG) | ✅ Live |
+| `// 03` | GitHub Stats — 3 cards + activity graph (reduced) | ✅ Live |
 | `// 04` | Contribution Atlas — snake + 3D rainbow | ✅ Live |
-| `// 05` | Latest Articles — RSS auto-pull | ✅ Auto-updated |
-| `// 06` | Coding Activity — WakaTime | ✅ Auto-updated (needs WAKATIME_API_KEY) |
-| `// 07` | Daily Quote — auto-updated | ✅ Auto-updated |
-| `// 08` | Connect — GitHub · LinkedIn · Email | ✅ Real |
+| `// 05` | Currently Building — paragraph with 3 tracks | ✅ Real content |
+| `// 06` | What I'm Learning — table with deepening + exploring | ✅ Real content |
+| `// 07` | Engineering Philosophy — 5 bullets | ✅ Real content |
+| `// 08` | Dev Quote — LIVE widget (no workflow needed) | ✅ Live |
+| `// 09` | Connect — GitHub · LinkedIn · Email | ✅ Real |
 
-## 5. Customizing the RSS feed (// 05 Latest Articles)
+## 5. What changed in this version (v4)
 
-By default, `blog-posts.yml` pulls from `https://dev.to/feed/` (dev.to's global featured feed). To pull your own content:
+**Removed (broken sections fixed):**
+- ❌ `// 05 Latest Articles` — was empty, workflow-dependent → REPLACED with "Currently Building" paragraph
+- ❌ `// 06 Coding Activity — WakaTime` — removed per request → REPLACED with "What I'm Learning" section
+- ❌ `// 07 Daily Quote` workflow — was empty → REPLACED with LIVE widget that works immediately
 
-1. Find your RSS URL — examples:
-   - **YouTube channel**: `https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxxxxxx` (find channel ID at https://commentpicker.com/youtube-channel-id.php)
-   - **Dev.to**: `https://dev.to/feed/username`
-   - **Medium**: `https://medium.com/feed/@username`
-   - **Personal blog**: most platforms expose `/feed`, `/rss`, or `/atom.xml`
-2. Edit `.github/workflows/blog-posts.yml` and replace the `feed_list` value.
-3. The workflow will pick up the change on the next push.
+**Removed workflows:**
+- ❌ `blog-posts.yml` (section removed)
+- ❌ `waka-time.yml` (section removed)
+- ❌ `daily-quote.yml` (replaced with live widget)
 
-You can list multiple feeds separated by commas:
-```yaml
-feed_list: "https://dev.to/feed/danyal,https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxx"
-```
+**New graphics added:**
+- ✨ **Capsule-render waving gradient header** at top (unique animated banner with name + subtitle)
+- ✨ **Capsule-render waving gradient footer** at bottom (matching animated banner)
+- ✨ **LIVE profile summary card** at top (instant real data via `github-profile-summary-cards`)
+- ✨ **Built-with sticker row** (Python · AI · GitHub · Made with ❤)
+- ✨ **Terminal boot-sequence typing animation** (`> Initializing developer profile...`)
 
-## 6. Design notes
+**About section redesigned:**
+- Old: simple `whoami`, `cat focus.txt`, `uptime`, `echo $PHILOSOPHY` (4 commands)
+- New: **professional developer shell session** with 6 commands — `whoami`, `cat role.md`, `ls -la focus/` (with realistic directory listing), `git log --oneline -5` (with realistic commit hashes + messages), `uptime`, `echo $PHILOSOPHY` — uses proper `danyal@ahmad-dev:~/profile $` prompt
+
+**Footer changed:**
+- Old: "CS Undergraduate · AI / ML Engineer · Lahore, Pakistan / Built in public · Designed with intent · Animated on purpose"
+- New: **Capsule-render waving footer** with "Let's build together" + tagline "Stay curious · Ship often · Document everything"
+
+**GitHub Stats reduced:**
+- Old: 7 widgets (stats + streak + top langs + detailed card + classic chart + activity graph + language SVG)
+- New: 4 widgets (stats + streak + top langs + activity graph) — cleaner and not "too much"
+
+**New paragraph sections:**
+- `// 05 Currently Building` — 3 paragraphs on LLM Agents, Edge Inference, Browser-Side ML (with real metrics: recall@5=0.89, mAP 0.47, 380ms inference)
+- `// 06 What I'm Learning` — paragraph + 2-column table (Deepening vs Exploring)
+- `// 07 Engineering Philosophy` — 5 bullets with explanations
+
+## 6. Design system
 
 - **Aesthetic**: Cyberpunk Terminal · Pure black (`#0D1117`) · Electric cyan (`#00D9FF`)
-- **8 workflows** total — 4 existing + 4 NEW
-- **New visit counter**: switched from getloli to **komarev profile-views** (`https://komarev.com/ghpvc/?username=Danyal-Ahmad`) — cleaner, more professional, no anime theme
-- **Removed sections**: `// 03 Featured Work` and `// 06 Recent Activity` per request
-- **New sections added**: Latest Articles, Coding Activity, Daily Quote
-- **Extended GitHub Stats**: now 5 widgets stacked — stats card · streak · top langs · detailed metrics card (issues/PRs/reviews) · classic contribution chart · activity graph · language SVG
-- **Terminal aesthetic**: `$ whoami`, `$ cat focus.txt`, `$ uptime`, `$ echo $PHILOSOPHY` code block in About section
-- **Live status pills**: STATUS-Online, BUILDING-Intelligent_Systems, SHIPPING-End_to_End
+- **Typography**: JetBrains Mono for terminal/code, system sans for body
+- **Section markers**: `// 01` through `// 09` (code-comment style)
+- **Section icons**: Animated Fluent Emojis (waving hand, hammer & wrench, bar chart, globe, rocket, books, light bulb, thinking face, card index)
+- **Dividers**: Capsule-render waving gradient (top + bottom only — clean middle sections)
+- **Live widgets**: All dynamic content uses real GitHub data — no fake SVGs
 
-## 7. What's REAL
+## 7. Everything is REAL
 
 Every dynamic widget points at `username=Danyal-Ahmad`:
-- Stats, streak, top langs, activity graph → live from GitHub API
-- Classic contribution chart (`ghchart.rshah.org`) → live from GitHub
+- Profile summary card → live from GitHub API (avatar, name, bio, followers, repos)
+- Stats, streak, top langs, activity graph → live from GitHub
 - Snake + 3D rainbow → live, eating your real contribution grid
 - Visit counter → increments per unique visitor (komarev)
-- Latest articles → real RSS feed (defaults to dev.to, swap your own)
-- WakaTime → your real coding hours (once API key is added)
-- Daily quote → real auto-updated quote
+- Dev Quote → live random quote (refreshes on each render)
 
 ---
 
-Built in public · Designed with intent · Animated on purpose.
+Stay curious · Ship often · Document everything.
