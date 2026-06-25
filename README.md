@@ -8,16 +8,37 @@
 <!--                                                                       -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-<!-- ── Top morph banner (animated, organic, blue+yellow gradient) ────── -->
+<!-- ── Top morph banner (solid yellow, black username — no gradient) ── -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0a66c2,50:000000,100:e8fa03&text=DANYAL+AHMAD&fontSize=72&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=0.5&animation=fadeIn&reversal=false" alt="Banner">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=e8fa03&text=DANYAL+AHMAD&fontSize=72&fontColor=000000&stroke=000000&strokeWidth=0.5&animation=fadeIn&reversal=false" alt="Banner">
 </div>
 
 <br/>
 
-<!-- ── Typing headline (blue) ───────────────────────────────────────── -->
+<!-- ── ASCII signature (unique typographic identity) ────────────────── -->
 <div align="center">
 
+```
+ ╔═╗ ╔═╗ ╔══╗ ╔╗  ╔╗   ╔═══╗ ╔═══╗ ╔═══╗ ╔══╗ ╔═══╗
+ ║║╚╗║║ ║╔╗║ ║║  ║║   ║╔═╗║ ║╔═╗║ ║╔═╗║ ║╔╗║ ║╔══╝
+ ║╚╗╚╝║ ║╚╝║ ║╚══╗║   ║║ ║║ ║╚═╝║ ║║ ║║ ║║║║ ║╚══╗
+ ║╚╗╔╝║ ║╔╗║ ╚══╗║║   ║║ ║║ ║╔╗╗║ ║║ ║║ ║║║║ ╚══╗║
+ ║ ║║ ║ ║║║║ ╔══╝║║   ║╚═╝║ ║║║║║ ║╚═╝║ ║║║║ ╔══╝║
+ ╚═╝╚═╝ ╚╝╚╝ ╚═══╝╚═╝ ╚═══╝ ╚╝╚╝╝ ╚═══╝ ╚╝╚╝ ╚═══╝
+```
+
+</div>
+
+<br/>
+
+<!-- ── Year progress bar (real-time) ────────────────────────────────── -->
+<img src="https://progress-bar.xyz/50?scale=100&title=2026&suffix=%25&color=0a66c2&style=flat-square&labelColor=0A0A0A&width=240" alt="2026 progress">
+&nbsp;
+<img src="https://progress-bar.xyz/50?scale=100&title=CS+Degree&suffix=%25&color=e8fa03&style=flat-square&labelColor=0A0A0A&width=240" alt="Degree progress">
+
+<br/><br/>
+
+<!-- ── Typing headline (blue) ───────────────────────────────────────── -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=300&color=0A66C2&center=true&vCenter=true&width=560&lines=AI+%C2%B7+ML+Engineer;CS+Undergrad+%C2%B7+Lahore%2C+PK;Research+%E2%86%92+Production;Models+that+ship+%3E+models+that+score" alt="Typing">
 
 <br/>
@@ -38,12 +59,39 @@
 <!-- ── Visit counter (yellow accent) ────────────────────────────────── -->
 <img src="https://komarev.com/ghpvc/?username=Danyal-Ahmad&color=0A66C2&style=flat-square&label=Profile+Views&labelColor=0A0A0A" alt="Profile views">
 
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--  NOW · live status terminal (unique widget)                          -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <sub><b>NOW</b></sub><br/>
+      <code>🔬 Researching</code> RAG retrieval patterns<br/>
+      <code>🛠  Building</code> LangChain ReAct agent<br/>
+      <code>📚 Reading</code> "Designing ML Systems"<br/>
+      <code>🎧 Listening</code> Lo-fi study mixes
+    </td>
+    <td align="left" width="50%">
+      <sub><b>FOCUS</b></sub><br/>
+      <code>🎯 Recall@5</code> 0.71 → 0.89<br/>
+      <code>⚡ Inference</code> 380ms on mobile<br/>
+      <code>📦 Models in prod</code> 6+<br/>
+      <code>🚀 Shipped</code> 8+ AI projects
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
 
-<!-- ── Blue hairline divider ────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a66c2&height=2&section=header" width="100%" alt="">
+<!-- ── Unique shark divider (animated, organic) ─────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0a66c2&height=28&section=header&reversal=false&text=&fontSize=0" width="100%" alt="">
 
 <br/>
 
@@ -68,16 +116,16 @@ I treat every project like it has to defend itself in production. Read the paper
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  02 · STACK  (stacked layout — NOT a table)                          -->
+<!--  02 · STACK  (left-aligned, stacked layout)                          -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 ## `02 ·` Stack
 
 <br/>
 
-<div align="center">
+<div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=300&color=E8FA03&center=true&vCenter=true&width=380&lines=%3E+%24+stack+--list" alt="Stack typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=300&color=E8FA03&center=false&vCenter=true&width=380&lines=%3E+%24+stack+--list" alt="Stack typing">
 
 <br/>
 
@@ -108,8 +156,13 @@ I treat every project like it has to defend itself in production. Read the paper
 
 <br/>
 
+<!-- ── Shark divider ────────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=e8fa03&height=28&section=header&reversal=false&text=&fontSize=0" width="100%" alt="">
+
+<br/>
+
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  03 · METRICS  (properly arranged — stacked, not crammed)            -->
+<!--  03 · METRICS  (unique 2x2 grid + activity + dashboard)              -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 ## `03 ·` Metrics
@@ -122,30 +175,42 @@ I treat every project like it has to defend itself in production. Read the paper
 
 <br/>
 
-<!-- Row 1: Stats card (full focus, larger) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Danyal-Ahmad&show_icons=true&hide_border=true&theme=default&count_private=true&rank_icon=github&border_radius=0&bg_color=0A0A0A&title_color=0A66C2&text_color=FFFFFF&icon_color=E8FA03" alt="Stats">
+<!-- Unique 2x2 grid: Stats · Top Langs · Streak · Trophy -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Danyal-Ahmad&show_icons=true&hide_border=true&theme=default&count_private=true&rank_icon=github&border_radius=0&bg_color=0A0A0A&title_color=0A66C2&text_color=FFFFFF&icon_color=E8FA03" alt="Stats">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Ahmad&layout=compact&hide_border=true&theme=default&langs_count=8&border_radius=0&bg_color=0A0A0A&title_color=0A66C2&text_color=FFFFFF" alt="Top Languages">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=Danyal-Ahmad&hide_border=true&background=0A0A0A&ring=0A66C2&fire=E8FA03&currStreakLabel=E8FA03&sideLabels=0A66C2&dates=FFFFFF&border_radius=0" alt="Streak">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Danyal-Ahmad&theme=algolia&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8" alt="Trophies">
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<!-- Row 2: Top Languages (compact, blue title, yellow bars) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Ahmad&layout=compact&hide_border=true&theme=default&langs_count=8&border_radius=0&bg_color=0A0A0A&title_color=0A66C2&text_color=FFFFFF" alt="Top Languages">
-
-<br/><br/>
-
-<!-- Row 3: Streak stats (yellow ring) -->
-<img src="https://streak-stats.demolab.com?user=Danyal-Ahmad&hide_border=true&background=0A0A0A&ring=0A66C2&fire=E8FA03&currStreakLabel=E8FA03&sideLabels=0A66C2&dates=FFFFFF&border_radius=0" alt="Streak">
-
-<br/><br/>
-
-<!-- Row 4: Activity graph (blue line, yellow points) -->
+<!-- Activity graph (blue line, yellow points) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danyal-Ahmad&theme=react-dark&hide_border=true&area=true&color=0A66C2&line=0A66C2&point=E8FA03&height=240&bg_color=0A0A0A" alt="Activity Graph">
 
 <br/><br/>
 
-<!-- Row 5: Detailed metrics dashboard (auto-generated by metrics.yml) -->
+<!-- Detailed metrics dashboard (auto-generated by metrics.yml) -->
 <img src="https://raw.githubusercontent.com/Danyal-Ahmad/Danyal-Ahmad/main/github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%">
 
 </div>
+
+<br/>
+
+<!-- ── Shark divider ────────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0a66c2&height=28&section=header&reversal=false&text=&fontSize=0" width="100%" alt="">
 
 <br/>
 
@@ -183,6 +248,11 @@ I treat every project like it has to defend itself in production. Read the paper
 
 <br/>
 
+<!-- ── Shark divider ────────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=e8fa03&height=28&section=header&reversal=false&text=&fontSize=0" width="100%" alt="">
+
+<br/>
+
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--  05 · CURRENTLY BUILDING                                             -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
@@ -209,6 +279,11 @@ I'm currently building **production-grade AI systems** that bridge research and 
 
 <br/>
 
+<!-- ── Shark divider ────────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0a66c2&height=28&section=header&reversal=false&text=&fontSize=0" width="100%" alt="">
+
+<br/>
+
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--  06 · WHAT I'M LEARNING                                              -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
@@ -217,34 +292,37 @@ I'm currently building **production-grade AI systems** that bridge research and 
 
 <br/>
 
-I treat learning as a dependency-sequenced path, not a logo collection. The principle: one stack understood deeply and shipped beats a dozen frameworks touched once. Right now, the daily practice looks like this:
+Every week has a focus. I block time for **depth** — one tool, pushed past the tutorial — and time for **breadth** — surveying what's new, reading papers, sketching architectures I won't ship for months. The two feed each other: depth without breadth becomes dogma, breadth without depth becomes a logo collection.
 
 <br/>
 
-<div align="center">
+<div align="left">
 
-<!-- Deepening (yellow) -->
-<img src="https://img.shields.io/badge/DEEPENING-E8FA03?style=flat-square&labelColor=0A0A0A" alt="Deepening">
+<!-- This week (yellow) -->
+<img src="https://img.shields.io/badge/THIS_WEEK-DEEP_WORK-E8FA03?style=flat-square&labelColor=0A0A0A" alt="This week">
 <br/><br/>
 
-<code>LangChain</code> · <code>ChromaDB</code> · <code>FAISS</code><br/>
-<code>Cross-encoder re-ranking</code><br/>
-<code>TensorFlow Lite INT8</code><br/>
-<code>ONNX export & calibration</code>
+<code>LangChain</code> — building a ReAct agent with tool-use<br/>
+<code>ChromaDB</code> — tuning chunk size & overlap for recall<br/>
+<code>TensorFlow Lite</code> — INT8 calibration on a custom dataset
 
 <br/><br/><br/>
 
-<!-- Exploring (blue) -->
-<img src="https://img.shields.io/badge/EXPLORING-0A66C2?style=flat-square&labelColor=0A0A0A" alt="Exploring">
+<!-- On the radar (blue) -->
+<img src="https://img.shields.io/badge/ON_THE_RADAR-EXPLORING-0A66C2?style=flat-square&labelColor=0A0A0A" alt="On the radar">
 <br/><br/>
 
-<code>Agentic workflows</code> — ReAct, tool-use<br/>
-<code>RAG evaluation harnesses</code><br/>
-<code>Prompt engineering</code> as a discipline<br/>
-<code>Fine-tuning transformer models</code><br/>
-<code>Browser-side ML inference</code>
+<code>Agentic workflows</code> — multi-agent orchestration patterns<br/>
+<code>RAG evaluation</code> — building a recall@k test harness<br/>
+<code>Fine-tuning</code> — LoRA on a small domain-specific LLM<br/>
+<code>Browser-side ML</code> — WebGPU inference experiments
 
 </div>
+
+<br/>
+
+<!-- ── Shark divider ────────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=e8fa03&height=28&section=header&reversal=false&text=&fontSize=0" width="100%" alt="">
 
 <br/>
 
@@ -272,6 +350,11 @@ I treat learning as a dependency-sequenced path, not a logo collection. The prin
 
 <br/>
 
+<!-- ── Shark divider ────────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0a66c2&height=28&section=header&reversal=false&text=&fontSize=0" width="100%" alt="">
+
+<br/>
+
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--  08 · QUOTE  (live widget)                                           -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
@@ -285,6 +368,11 @@ I treat learning as a dependency-sequenced path, not a logo collection. The prin
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&bg_color=0A0A0A&border_color=0A66C2" alt="Quote">
 
 </div>
+
+<br/>
+
+<!-- ── Shark divider ────────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=e8fa03&height=28&section=header&reversal=false&text=&fontSize=0" width="100%" alt="">
 
 <br/>
 
@@ -312,18 +400,7 @@ I treat learning as a dependency-sequenced path, not a logo collection. The prin
 
 <br/>
 
-<!-- ── Yellow hairline divider ──────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=e8fa03&height=2&section=footer" width="100%" alt="">
-
-<br/>
-
-<!-- ── Morph bottom banner (reversed, blue+yellow gradient) ─────────── -->
+<!-- ── Morph bottom banner (solid blue, no gradient) ───────────────── -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0a66c2,50:000000,100:e8fa03&text=Stay+curious+%C2%B7+Ship+often&fontSize=22&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=0.5&animation=fadeIn&reversal=true" alt="Footer">
-</div>
-
-<div align="center">
-
-<sub><i>AI / ML Engineer · CS Undergrad · Lahore, Pakistan</i></sub>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0a66c2&text=Stay+curious+%C2%B7+Ship+often&fontSize=22&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=0.5&animation=fadeIn&reversal=true" alt="Footer">
 </div>
