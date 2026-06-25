@@ -1,11 +1,3 @@
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--   DANYAL AHMAD                                                        -->
-<!--   AI · ML Engineer  ·  CS Undergrad  ·  Lahore, Pakistan              -->
-<!--   Aesthetic: Editorial Brutalist · Black · #0a66c2 · #e8fa03          -->
-<!--   All data is REAL · Auto-pulled from github.com/Danyal-Ahmad         -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<!-- ── TOP: Real GitHub metrics dashboard (auto-refreshed by metrics.yml) ── -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Danyal-Ahmad/Danyal-Ahmad/main/github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%">
@@ -19,7 +11,7 @@
 <!-- ── Large typing name ────────────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2800&pause=600&color=0A66C2&center=true&vCenter=true&width=540&lines=DANYAL+AHMAD;AI+%C2%B7+ML+Engineer;CS+Undergrad+%C2%B7+Lahore%2C+PK;Research+%E2%86%92+Production" alt="Name typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2800&pause=600&color=0A66C2&center=true&vCenter=true&width=540&lines=DANYAL+AHMAD;AI+%C2%B7+ML+Engineer;CS+Undergrad+%C2%B7+Pakistan;Research+%E2%86%92+Production" alt="Name typing">
 
 <br/>
 
@@ -46,7 +38,7 @@
 
 ## `01 /` Identity
 
-I'm **Danyal Ahmad** — a Computer Science undergraduate based in **Lahore, Pakistan**, translating research into deployable AI. The work spans deep learning, LLM agents & RAG pipelines, computer vision, and intelligent web apps.
+I'm **Danyal Ahmad** — a Computer Science undergraduate based in **Pakistan**, translating research into deployable AI. The work spans deep learning, LLM agents & RAG pipelines, computer vision, and intelligent web apps.
 
 I treat every project like it has to defend itself in production. Read the paper. Prototype fast. Measure honestly. Ship something a real user can touch. Models that ship are worth more than models that score.
 
@@ -60,19 +52,19 @@ I treat every project like it has to defend itself in production. Read the paper
 <br/>
 <img src="https://skillicons.dev/icons?i=python,js,ts,php,java,c&theme=dark&perline=8" alt="Languages">
 
-<br/><br/>
+<br/>
 
 **AI & ML**
 <br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8" alt="AI & ML">
 
-<br/><br/>
+<br/>
 
 **Web**
 <br/>
 <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,nextjs,nodejs,html,css,tailwind,mysql&theme=dark&perline=10" alt="Web">
 
-<br/><br/>
+<br/>
 
 **Tools**
 <br/>
@@ -135,11 +127,11 @@ I treat every project like it has to defend itself in production. Read the paper
 
 I'm currently building **production-grade AI systems** that bridge research and real-world deployment. The work spans three primary tracks, each with measurable outcomes:
 
-**LLM Agents & RAG Pipelines** — Designing LangChain-orchestrated agents with vector retrieval, ReAct-style tool layers, and grounded citations. The focus is on retrieval quality — recursive chunking, cross-encoder re-ranking, and critique steps that grade retrieval before the LLM answers. Recall@5 moved from 0.71 (naive) to 0.89 (with re-ranking) on a hand-verified 200-pair test harness.
+**LLM Agents & RAG Pipelines** - Designing LangChain-orchestrated agents with vector retrieval, ReAct-style tool layers, and grounded citations. The focus is on retrieval quality — recursive chunking, cross-encoder re-ranking, and critique steps that grade retrieval before the LLM answers. Recall@5 moved from 0.71 (naive) to 0.89 (with re-ranking) on a hand-verified 200-pair test harness.
 
-**Edge Inference for Computer Vision** — Porting YOLOv8-nano to ONNX with INT8 quantization, running real-time on a Coral USB accelerator. The pattern is consistent: train in PyTorch, export to ONNX, calibrate with a domain-specific dataset, deploy to edge hardware. mAP 0.47 preserved at INT8 — a 0.03 drop from FP32, well within tolerance.
+**Edge Inference for Computer Vision** - Porting YOLOv8-nano to ONNX with INT8 quantization, running real-time on a Coral USB accelerator. The pattern is consistent: train in PyTorch, export to ONNX, calibrate with a domain-specific dataset, deploy to edge hardware. mAP 0.47 preserved at INT8 — a 0.03 drop from FP32, well within tolerance.
 
-**Browser-Side ML** — Converting CNNs to TensorFlow Lite for client-side inference. CardioVision proved the pattern works for medical audio: 380ms inference on a mid-range phone, no GPU, no API calls, no patient data leaving the browser. The same scaffold now extends to ECG waveform classification and cough-based respiratory screening.
+**Browser-Side ML** - Converting CNNs to TensorFlow Lite for client-side inference. CardioVision proved the pattern works for medical audio: 380ms inference on a mid-range phone, no GPU, no API calls, no patient data leaving the browser. The same scaffold now extends to ECG waveform classification and cough-based respiratory screening.
 
 <br/>
 <hr/>
@@ -147,11 +139,11 @@ I'm currently building **production-grade AI systems** that bridge research and 
 
 ## `06 /` What I'm Learning
 
-Every week has a focus. I block time for **depth** — one tool, pushed past the tutorial — and time for **breadth** — surveying what's new, reading papers, sketching architectures I won't ship for months. The two feed each other: depth without breadth becomes dogma, breadth without depth becomes a logo collection.
+Every week has a focus. I block time for **depth** one tool, pushed past the tutorial — and time for **breadth** surveying what's new, reading papers, sketching architectures I won't ship for months. The two feed each other: depth without breadth becomes dogma, breadth without depth becomes a logo collection.
 
 <div align="left">
 
-**This week — deep work**
+**This week - deep work**
 
 - `LangChain` — building a ReAct agent with tool-use
 - `ChromaDB` — tuning chunk size & overlap for recall
@@ -159,12 +151,12 @@ Every week has a focus. I block time for **depth** — one tool, pushed past the
 
 <br/>
 
-**On the radar — exploring**
+**On the radar - exploring**
 
-- `Agentic workflows` — multi-agent orchestration patterns
-- `RAG evaluation` — building a recall@k test harness
-- `Fine-tuning` — LoRA on a small domain-specific LLM
-- `Browser-side ML` — WebGPU inference experiments
+- `Agentic workflows` - multi-agent orchestration patterns
+- `RAG evaluation` - building a recall@k test harness
+- `Fine-tuning` - LoRA on a small domain-specific LLM
+- `Browser-side ML` - WebGPU inference experiments
 
 </div>
 
@@ -198,18 +190,11 @@ Every week has a focus. I block time for **depth** — one tool, pushed past the
 
 ## `09 /` Connect
 
-<div align="left">
+<div align="center">
 
 <a href="https://linkedin.com/in/danyalahmad"><img src="https://img.shields.io/badge/LinkedIn-danyalahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
 &nbsp;
 <a href="mailto:danyalahmad.pjb@gmail.com"><img src="https://img.shields.io/badge/Email-danyalahmad.pjb-E8FA03?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email"></a>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<sub><i>Stay curious · Ship often · Document everything</i></sub>
-
 </div>
