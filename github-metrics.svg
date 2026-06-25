@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120" role="img" aria-label="Metrics placeholder">
-  <rect width="480" height="120" rx="0" fill="#0A0A0A" stroke="#FFFFFF" stroke-width="1"/>
-  <text x="24" y="44" font-family="JetBrains Mono, monospace" font-size="16" font-weight="700" fill="#FFFFFF">Danyal Ahmad</text>
-  <text x="24" y="68" font-family="JetBrains Mono, monospace" font-size="11" fill="#A9A9A9">Metrics loading — run the</text>
-  <text x="24" y="84" font-family="JetBrains Mono, monospace" font-size="11" fill="#A9A9A9">"Metrics" workflow once.</text>
-  <circle cx="450" cy="30" r="6" fill="#FFFFFF">
+  <rect width="480" height="120" rx="0" fill="#0A0A0A" stroke="#0a66c2" stroke-width="1"/>
+  <text x="24" y="44" font-family="JetBrains Mono, monospace" font-size="16" font-weight="700" fill="#0a66c2">Danyal Ahmad</text>
+  <text x="24" y="68" font-family="JetBrains Mono, monospace" font-size="11" fill="#FFFFFF">Metrics loading — run the</text>
+  <text x="24" y="84" font-family="JetBrains Mono, monospace" font-size="11" fill="#FFFFFF">"Metrics" workflow once.</text>
+  <circle cx="450" cy="30" r="6" fill="#e8fa03">
     <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
   </circle>
 </svg>

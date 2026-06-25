@@ -1,6 +1,6 @@
-# Setup Guide — Danyal Ahmad's Profile README (Monochrome Edition)
+# Setup Guide — Danyal Ahmad's Profile README (Blue + Yellow Edition)
 
-This zip contains a clean, minimal, monochrome (black & white) GitHub profile README with morph/venom animated banners and editorial typography.
+This zip contains a unique, bold GitHub profile README using **LinkedIn blue (`#0a66c2`)** + **acid yellow (`#e8fa03`)** on pure black, with morph banners, multiple typing animations, and a stacked (non-table) layout.
 
 ## 1. Push to your PROFILE repo
 
@@ -14,7 +14,7 @@ Danyal-Ahmad/
 └── .github/
     └── workflows/
         ├── snake.yml              ← snake animation (visible in § 04)
-        ├── metrics.yml            ← general metrics SVG (committed to main)
+        ├── metrics.yml            ← metrics SVG (visible in § 03)
         └── profile-3d.yml         ← 3D contribution calendar (visible in § 04)
 ```
 
@@ -37,78 +37,92 @@ Go to **Actions → Run workflow** for each:
 |---|---|---|
 | `Generate Snake Animation` | `output` branch | ✅ Yes — `§ 04` |
 | `GitHub Profile 3D Contribution` | `output-3d-contrib` branch | ✅ Yes — `§ 04` |
-| `Metrics` | commits `github-metrics.svg` to `main` | No (kept for reference) |
+| `Metrics` | commits `github-metrics.svg` to `main` | ✅ Yes — `§ 03` |
 
 ## 4. README sections (9 sections, all working)
 
 | # | Section | Status |
 |---|---|---|
-| `01 ·` | About — 2-paragraph bio | ✅ Real content |
-| `02 ·` | Stack — skillicons only, 4 rows | ✅ Real |
-| `03 ·` | Metrics — 2 cards + activity graph | ✅ Live |
+| `01 ·` | About — 2-paragraph bio + typing header | ✅ Real content |
+| `02 ·` | Stack — stacked layout (NOT a table), 4 categories | ✅ Real |
+| `03 ·` | Metrics — stats + top langs + streak + activity graph + detailed dashboard | ✅ Live |
 | `04 ·` | Contribution Atlas — snake + 3D calendar | ✅ Live |
 | `05 ·` | Currently Building — 3 paragraphs | ✅ Real content |
-| `06 ·` | What I'm Learning — table | ✅ Real content |
+| `06 ·` | What I'm Learning — stacked badges + text | ✅ Real content |
 | `07 ·` | Philosophy — 5 bullets | ✅ Real content |
-| `08 ·` | Quote — LIVE widget (no workflow) | ✅ Live |
+| `08 ·` | Quote — LIVE widget | ✅ Live |
 | `09 ·` | Connect — GitHub · LinkedIn · Email | ✅ Real |
 
-## 5. Design system — Monochrome
+## 5. Design system — Blue + Yellow on Black
 
-- **Aesthetic**: Pure black (`#0A0A0A`) + pure white (`#FFFFFF`) + grey (`#A9A9A9`)
-- **No color anywhere** — all widgets use `theme=white` + `bg_color=0A0A0A` + `text_color=FFFFFF`
-- **Section markers**: `01 ·` through `09 ·` (editorial style)
-- **No emoji** — clean editorial typography
-- **Morph banners**: `capsule-render venom` type at top and bottom (organic, animated)
-- **Hairline dividers**: `andreasbm/readme` colored lines (subtle)
-- **Square corners** (`border_radius=0`) — sharp, editorial, minimal
-- **Live widgets**: All dynamic content uses real GitHub data — no fake SVGs
+- **Background**: Pure black `#0A0A0A`
+- **Primary accent**: LinkedIn blue `#0A66C2`
+- **Secondary accent**: Acid yellow `#E8FA03`
+- **Text**: Pure white `#FFFFFF`
+- **Morph banners**: `capsule-render venom` type (top + bottom) with blue → black → yellow gradient
+- **Hairline dividers**: `capsule-render rect` (blue at top, yellow at bottom)
+- **Stacked layout**: Stack section uses centered badges + skillicons — NOT a 2-column table
+- **Multiple typing animations**: 9 total — one per section, alternating blue/yellow
 
-## 6. External resources used
+## 6. Color usage map
 
-| Resource | What it does | URL |
+| Section | Typing color | Accent color |
 |---|---|---|
-| **capsule-render** | Morph/venom animated banners (top + bottom) | `capsule-render.vercel.app` |
-| **readme-typing-svg** | Animated typing headline | `readme-typing-svg.demolab.com` |
-| **shields.io** | Status pills, social badges | `img.shields.io` |
-| **skillicons.dev** | Tech stack icons | `skillicons.dev` |
-| **komarev** | Profile view counter | `komarev.com/ghpvc` |
-| **github-readme-stats** | Stats card + top languages | `github-readme-stats.vercel.app` |
-| **github-readme-activity-graph** | Contribution activity graph | `github-readme-activity-graph.vercel.app` |
-| **quotes-github-readme** | Live random dev quote | `quotes-github-readme.vercel.app` |
-| **andreasbm/readme** | Hairline dividers | `raw.githubusercontent.com/andreasbm/readme` |
-| **Platane/snk** | Snake animation (via workflow) | `github.com/Platane/snk` |
-| **yoshi389111/github-profile-3d-contrib** | 3D contribution calendar (via workflow) | `github.com/yoshi389111/github-profile-3d-contrib` |
-| **lowlighter/metrics** | Detailed metrics SVG (via workflow) | `github.com/lowlighter/metrics` |
+| Header (top) | Blue `#0A66C2` | Yellow `#E8FA03` (subtitle) |
+| `01 · About` | Blue | — |
+| `02 · Stack` | Yellow | Alternating blue/yellow labels |
+| `03 · Metrics` | Blue | Blue titles + yellow icons/streak |
+| `04 · Atlas` | Yellow | — |
+| `05 · Building` | Blue | — |
+| `06 · Learning` | — | Yellow (Deepening) + Blue (Exploring) |
+| `07 · Philosophy` | Yellow | — |
+| `08 · Quote` | — | Blue border |
+| `09 · Connect` | Blue | Blue (GitHub/LinkedIn) + Yellow (Email) |
+| Footer (bottom) | — | Blue → Black → Yellow gradient |
 
-## 7. What changed in this version (Monochrome Edition)
+## 7. External resources used
 
-**Aesthetic overhaul:**
-- ✨ Switched from electric cyan to **pure black & white** — no color anywhere
-- ✨ New **morph/venom animated banners** (top + bottom) via capsule-render — organic, undulating shapes
-- ✨ **Hairline dividers** between sections (subtle, editorial)
-- ✨ **Square corners** on all cards (`border_radius=0`) — sharp, minimal
-- ✨ Removed all emojis — clean editorial typography only
-- ✨ Removed profile summary card, sticker row, status pills row (kept only 4 essential pills)
-- ✨ Section markers simplified from `// 01` to `01 ·` (cleaner editorial style)
+| Resource | What it does |
+|---|---|
+| **capsule-render** | Morph/venom banners (top + bottom) + rect dividers |
+| **readme-typing-svg** | 9 typing animations throughout |
+| **shields.io** | Status pills, social badges, section labels |
+| **skillicons.dev** | Tech stack icons |
+| **komarev** | Profile view counter |
+| **github-readme-stats** | Stats card + top languages |
+| **streak-stats** | GitHub streak |
+| **github-readme-activity-graph** | Contribution activity graph |
+| **quotes-github-readme** | Live random dev quote |
+| **Platane/snk** | Snake animation (via workflow) |
+| **yoshi389111/github-profile-3d-contrib** | 3D contribution calendar (via workflow) |
+| **lowlighter/metrics** | Detailed metrics dashboard (via workflow) |
 
-**Reduced visual noise:**
-- GitHub Stats reduced to 2 cards (stats + top langs) + 1 activity graph
-- Removed detailed metrics card, classic contribution chart, language SVG from the visible README
-- Only 1 quote widget (no jokes, no extra widgets)
+## 8. What changed in this version (Blue + Yellow Edition)
 
-**Workflows cleaned up:**
-- Kept 3 essential workflows: snake, metrics, profile-3d
-- Removed: activity, metrics-languages (not used in visible README)
+**Theme switched:**
+- ❌ Old: Pure black & white monochrome
+- ✅ New: **LinkedIn blue (`#0A66C2`) + acid yellow (`#E8FA03`)** on pure black
 
-## 8. Everything is REAL
+**Stack section redesigned (per request):**
+- ❌ Old: 2-column table (label column + icons column)
+- ✅ New: **Stacked centered layout** — each category is a colored badge, followed by its skillicons row, with vertical spacing between categories
 
-Every dynamic widget points at `username=Danyal-Ahmad`:
-- Stats, top langs, activity graph → live from GitHub API
-- Snake + 3D calendar → live, eating your real contribution grid
-- Visit counter → increments per unique visitor (komarev)
-- Quote → live random quote (refreshes on each render)
+**Stats properly arranged (per request):**
+- ❌ Old: 2 cards in a table + activity graph
+- ✅ New: **5 widgets stacked vertically** — stats card → top languages → streak stats → activity graph → detailed metrics dashboard. Each gets full width and proper breathing room.
+
+**More typing animations (per request):**
+- ❌ Old: 2 typing animations (header + subtitle)
+- ✅ New: **9 typing animations** — one per section, alternating blue/yellow. Examples: `> whoami?`, `> $ stack --list`, `> $ git stats --live`, `> eating my contribution grid...`, `> git commit -m "building..."`, `> cat philosophy.md`, `> let's build together`
+
+**Color theming applied to all live widgets:**
+- Stats card: blue title, yellow icons
+- Top Languages: blue title
+- Streak stats: blue ring, yellow fire/labels
+- Activity graph: blue line, yellow points
+- Quote widget: blue border
+- Visit counter: blue accent
 
 ---
 
-Stay curious · Ship often · Document everything.
+AI / ML Engineer · CS Undergrad · Lahore, Pakistan
