@@ -188,7 +188,7 @@ Every week has a focus. I block time for **depth** one tool, pushed past the tut
 
 <div align="center">
 
-<a href="https://linkedin.com/in/danyalahmad"><img src="https://img.shields.io/badge/LinkedIn-danyalahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/danyal-ahmaad"><img src="https://img.shields.io/badge/LinkedIn-danyalahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
 &nbsp;
 <a href="mailto:danyalahmad.pjb@gmail.com"><img src="https://img.shields.io/badge/Email-danyalahmad.pjb-E8FA03?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email"></a>
 
