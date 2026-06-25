@@ -5,17 +5,27 @@
 <!--   All data is REAL · Auto-pulled from github.com/Danyal-Ahmad         -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-<div align="left">
+<!-- ── TOP: Real GitHub metrics dashboard (auto-refreshed by metrics.yml) ── -->
+<div align="center">
 
-# DANYAL AHMAD
+<img src="https://raw.githubusercontent.com/Danyal-Ahmad/Danyal-Ahmad/main/github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%">
 
-`AI · ML Engineer` &nbsp; `CS Undergrad` &nbsp; `Lahore, Pakistan`
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<!-- ── Large typing name ────────────────────────────────────────────── -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2800&pause=600&color=0A66C2&center=true&vCenter=true&width=540&lines=DANYAL+AHMAD;AI+%C2%B7+ML+Engineer;CS+Undergrad+%C2%B7+Lahore%2C+PK;Research+%E2%86%92+Production" alt="Name typing">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=400&color=0A66C2&center=false&vCenter=true&width=560&lines=Building+intelligent+systems+that+feel+invisible.;Models+that+ship+%3E+models+that+score.;Research-grounded.+Production-optimized.+Shipped+end-to-end." alt="Typing">
+<em>"Building intelligent systems that feel invisible."</em>
 
-<br/>
+<br/><br/>
 
 <a href="mailto:danyalahmad.pjb@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-E8FA03?style=flat-square&labelColor=0A0A0A" alt="Status"></a>
 <img src="https://img.shields.io/badge/ROLE-AI%2FML_Engineer-0A66C2?style=flat-square&labelColor=0A0A0A" alt="Role">
@@ -29,6 +39,10 @@
 <br/>
 <hr/>
 <br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--  01 / IDENTITY                                                       -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 ## `01 /` Identity
 
@@ -73,11 +87,6 @@ I treat every project like it has to defend itself in production. Read the paper
 ## `03 /` Signal
 
 <div align="center">
-
-<!-- REAL dashboard SVG — baked with actual GitHub data, auto-refreshed by metrics.yml -->
-<img src="https://raw.githubusercontent.com/Danyal-Ahmad/Danyal-Ahmad/main/github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%">
-
-<br/><br/>
 
 <!-- Live stats card -->
 <img src="https://github-readme-stats.vercel.app/api?username=Danyal-Ahmad&show_icons=true&hide_border=true&theme=default&count_private=true&rank_icon=github&border_radius=0&bg_color=0A0A0A&title_color=0A66C2&text_color=FFFFFF&icon_color=E8FA03" alt="Stats">
@@ -191,8 +200,6 @@ Every week has a focus. I block time for **depth** — one tool, pushed past the
 
 <div align="left">
 
-<a href="https://github.com/Danyal-Ahmad"><img src="https://img.shields.io/badge/GitHub-Danyal--Ahmad-0A66C2?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"></a>
-&nbsp;
 <a href="https://linkedin.com/in/danyalahmad"><img src="https://img.shields.io/badge/LinkedIn-danyalahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
 &nbsp;
 <a href="mailto:danyalahmad.pjb@gmail.com"><img src="https://img.shields.io/badge/Email-danyalahmad.pjb-E8FA03?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email"></a>
