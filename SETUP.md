@@ -1,6 +1,6 @@
-# Setup Guide — Danyal Ahmad's Profile README (v4 · Unique Edition)
+# Setup Guide — Danyal Ahmad's Profile README (Monochrome Edition)
 
-This zip contains a clean, professional, unique GitHub profile README with cyberpunk terminal aesthetic on pure black with electric cyan.
+This zip contains a clean, minimal, monochrome (black & white) GitHub profile README with morph/venom animated banners and editorial typography.
 
 ## 1. Push to your PROFILE repo
 
@@ -10,20 +10,17 @@ The `README.md` must live in a repo named **exactly after your username**: `Dany
 Danyal-Ahmad/
 ├── README.md
 ├── github-metrics.svg           ← placeholder; replaced by metrics.yml
-├── github-languages.svg         ← placeholder; replaced by metrics-languages.yml
 ├── SETUP.md
 └── .github/
     └── workflows/
-        ├── snake.yml              ← snake animation (visible in // 04)
-        ├── metrics.yml            ← general metrics SVG (kept in repo, not displayed)
-        ├── profile-3d.yml         ← 3D rainbow calendar (visible in // 04)
-        ├── metrics-languages.yml  ← language breakdown SVG (kept in repo, not displayed)
-        └── activity.yml           ← recent activity (hidden — can re-enable)
+        ├── snake.yml              ← snake animation (visible in § 04)
+        ├── metrics.yml            ← general metrics SVG (committed to main)
+        └── profile-3d.yml         ← 3D contribution calendar (visible in § 04)
 ```
 
 ## 2. Create one secret
 
-The `metrics.yml` and `metrics-languages.yml` workflows need a Personal Access Token:
+The `metrics.yml` workflow needs a Personal Access Token:
 
 1. **GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens**
 2. Generate a token scoped to `Danyal-Ahmad/Danyal-Ahmad` with **Contents: Read and write** + **Metadata: Read-only**
@@ -38,79 +35,79 @@ Go to **Actions → Run workflow** for each:
 
 | Workflow | Output | Visible in README? |
 |---|---|---|
-| `Generate Snake Animation` | `output` branch | ✅ Yes — `// 04` |
-| `GitHub Profile 3D Contribution` | `output-3d-contrib` branch | ✅ Yes — `// 04` |
+| `Generate Snake Animation` | `output` branch | ✅ Yes — `§ 04` |
+| `GitHub Profile 3D Contribution` | `output-3d-contrib` branch | ✅ Yes — `§ 04` |
 | `Metrics` | commits `github-metrics.svg` to `main` | No (kept for reference) |
-| `Language Breakdown SVG` | commits `github-languages.svg` to `main` | No (kept for reference) |
-| `Recent Activity` | (no-op — section hidden) | No |
 
 ## 4. README sections (9 sections, all working)
 
 | # | Section | Status |
 |---|---|---|
-| `// 01` | About — professional bash shell session | ✅ Real content |
-| `// 02` | Stack — skillicons only, 4 rows | ✅ Real |
-| `// 03` | GitHub Stats — 3 cards + activity graph (reduced) | ✅ Live |
-| `// 04` | Contribution Atlas — snake + 3D rainbow | ✅ Live |
-| `// 05` | Currently Building — paragraph with 3 tracks | ✅ Real content |
-| `// 06` | What I'm Learning — table with deepening + exploring | ✅ Real content |
-| `// 07` | Engineering Philosophy — 5 bullets | ✅ Real content |
-| `// 08` | Dev Quote — LIVE widget (no workflow needed) | ✅ Live |
-| `// 09` | Connect — GitHub · LinkedIn · Email | ✅ Real |
+| `01 ·` | About — 2-paragraph bio | ✅ Real content |
+| `02 ·` | Stack — skillicons only, 4 rows | ✅ Real |
+| `03 ·` | Metrics — 2 cards + activity graph | ✅ Live |
+| `04 ·` | Contribution Atlas — snake + 3D calendar | ✅ Live |
+| `05 ·` | Currently Building — 3 paragraphs | ✅ Real content |
+| `06 ·` | What I'm Learning — table | ✅ Real content |
+| `07 ·` | Philosophy — 5 bullets | ✅ Real content |
+| `08 ·` | Quote — LIVE widget (no workflow) | ✅ Live |
+| `09 ·` | Connect — GitHub · LinkedIn · Email | ✅ Real |
 
-## 5. What changed in this version (v4)
+## 5. Design system — Monochrome
 
-**Removed (broken sections fixed):**
-- ❌ `// 05 Latest Articles` — was empty, workflow-dependent → REPLACED with "Currently Building" paragraph
-- ❌ `// 06 Coding Activity — WakaTime` — removed per request → REPLACED with "What I'm Learning" section
-- ❌ `// 07 Daily Quote` workflow — was empty → REPLACED with LIVE widget that works immediately
-
-**Removed workflows:**
-- ❌ `blog-posts.yml` (section removed)
-- ❌ `waka-time.yml` (section removed)
-- ❌ `daily-quote.yml` (replaced with live widget)
-
-**New graphics added:**
-- ✨ **Capsule-render waving gradient header** at top (unique animated banner with name + subtitle)
-- ✨ **Capsule-render waving gradient footer** at bottom (matching animated banner)
-- ✨ **LIVE profile summary card** at top (instant real data via `github-profile-summary-cards`)
-- ✨ **Built-with sticker row** (Python · AI · GitHub · Made with ❤)
-- ✨ **Terminal boot-sequence typing animation** (`> Initializing developer profile...`)
-
-**About section redesigned:**
-- Old: simple `whoami`, `cat focus.txt`, `uptime`, `echo $PHILOSOPHY` (4 commands)
-- New: **professional developer shell session** with 6 commands — `whoami`, `cat role.md`, `ls -la focus/` (with realistic directory listing), `git log --oneline -5` (with realistic commit hashes + messages), `uptime`, `echo $PHILOSOPHY` — uses proper `danyal@ahmad-dev:~/profile $` prompt
-
-**Footer changed:**
-- Old: "CS Undergraduate · AI / ML Engineer · Lahore, Pakistan / Built in public · Designed with intent · Animated on purpose"
-- New: **Capsule-render waving footer** with "Let's build together" + tagline "Stay curious · Ship often · Document everything"
-
-**GitHub Stats reduced:**
-- Old: 7 widgets (stats + streak + top langs + detailed card + classic chart + activity graph + language SVG)
-- New: 4 widgets (stats + streak + top langs + activity graph) — cleaner and not "too much"
-
-**New paragraph sections:**
-- `// 05 Currently Building` — 3 paragraphs on LLM Agents, Edge Inference, Browser-Side ML (with real metrics: recall@5=0.89, mAP 0.47, 380ms inference)
-- `// 06 What I'm Learning` — paragraph + 2-column table (Deepening vs Exploring)
-- `// 07 Engineering Philosophy` — 5 bullets with explanations
-
-## 6. Design system
-
-- **Aesthetic**: Cyberpunk Terminal · Pure black (`#0D1117`) · Electric cyan (`#00D9FF`)
-- **Typography**: JetBrains Mono for terminal/code, system sans for body
-- **Section markers**: `// 01` through `// 09` (code-comment style)
-- **Section icons**: Animated Fluent Emojis (waving hand, hammer & wrench, bar chart, globe, rocket, books, light bulb, thinking face, card index)
-- **Dividers**: Capsule-render waving gradient (top + bottom only — clean middle sections)
+- **Aesthetic**: Pure black (`#0A0A0A`) + pure white (`#FFFFFF`) + grey (`#A9A9A9`)
+- **No color anywhere** — all widgets use `theme=white` + `bg_color=0A0A0A` + `text_color=FFFFFF`
+- **Section markers**: `01 ·` through `09 ·` (editorial style)
+- **No emoji** — clean editorial typography
+- **Morph banners**: `capsule-render venom` type at top and bottom (organic, animated)
+- **Hairline dividers**: `andreasbm/readme` colored lines (subtle)
+- **Square corners** (`border_radius=0`) — sharp, editorial, minimal
 - **Live widgets**: All dynamic content uses real GitHub data — no fake SVGs
 
-## 7. Everything is REAL
+## 6. External resources used
+
+| Resource | What it does | URL |
+|---|---|---|
+| **capsule-render** | Morph/venom animated banners (top + bottom) | `capsule-render.vercel.app` |
+| **readme-typing-svg** | Animated typing headline | `readme-typing-svg.demolab.com` |
+| **shields.io** | Status pills, social badges | `img.shields.io` |
+| **skillicons.dev** | Tech stack icons | `skillicons.dev` |
+| **komarev** | Profile view counter | `komarev.com/ghpvc` |
+| **github-readme-stats** | Stats card + top languages | `github-readme-stats.vercel.app` |
+| **github-readme-activity-graph** | Contribution activity graph | `github-readme-activity-graph.vercel.app` |
+| **quotes-github-readme** | Live random dev quote | `quotes-github-readme.vercel.app` |
+| **andreasbm/readme** | Hairline dividers | `raw.githubusercontent.com/andreasbm/readme` |
+| **Platane/snk** | Snake animation (via workflow) | `github.com/Platane/snk` |
+| **yoshi389111/github-profile-3d-contrib** | 3D contribution calendar (via workflow) | `github.com/yoshi389111/github-profile-3d-contrib` |
+| **lowlighter/metrics** | Detailed metrics SVG (via workflow) | `github.com/lowlighter/metrics` |
+
+## 7. What changed in this version (Monochrome Edition)
+
+**Aesthetic overhaul:**
+- ✨ Switched from electric cyan to **pure black & white** — no color anywhere
+- ✨ New **morph/venom animated banners** (top + bottom) via capsule-render — organic, undulating shapes
+- ✨ **Hairline dividers** between sections (subtle, editorial)
+- ✨ **Square corners** on all cards (`border_radius=0`) — sharp, minimal
+- ✨ Removed all emojis — clean editorial typography only
+- ✨ Removed profile summary card, sticker row, status pills row (kept only 4 essential pills)
+- ✨ Section markers simplified from `// 01` to `01 ·` (cleaner editorial style)
+
+**Reduced visual noise:**
+- GitHub Stats reduced to 2 cards (stats + top langs) + 1 activity graph
+- Removed detailed metrics card, classic contribution chart, language SVG from the visible README
+- Only 1 quote widget (no jokes, no extra widgets)
+
+**Workflows cleaned up:**
+- Kept 3 essential workflows: snake, metrics, profile-3d
+- Removed: activity, metrics-languages (not used in visible README)
+
+## 8. Everything is REAL
 
 Every dynamic widget points at `username=Danyal-Ahmad`:
-- Profile summary card → live from GitHub API (avatar, name, bio, followers, repos)
-- Stats, streak, top langs, activity graph → live from GitHub
-- Snake + 3D rainbow → live, eating your real contribution grid
+- Stats, top langs, activity graph → live from GitHub API
+- Snake + 3D calendar → live, eating your real contribution grid
 - Visit counter → increments per unique visitor (komarev)
-- Dev Quote → live random quote (refreshes on each render)
+- Quote → live random quote (refreshes on each render)
 
 ---
 
