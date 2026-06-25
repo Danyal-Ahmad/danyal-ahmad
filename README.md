@@ -44,19 +44,27 @@ I treat every project like it has to defend itself in production. Read the paper
 
 <div align="left">
 
-**Languages >** <img src="https://skillicons.dev/icons?i=python,js,ts,php,java,c&theme=dark&perline=8" alt="Languages">
+**Languages** 
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,java,c&theme=dark&perline=8" alt="Languages">
 
 <br/>
 
-**AI & ML >** <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8" alt="AI & ML">
+**AI & ML** 
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8" alt="AI & ML">
 
 <br/>
 
-**Web >** <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,nextjs,nodejs,html,css,tailwind,mysql&theme=dark&perline=10" alt="Web">
+**Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,nextjs,nodejs,html,css,tailwind,mysql&theme=dark&perline=10" alt="Web">
 
 <br/>
 
-**Tools >** <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,androidstudio,jupyter&theme=dark&perline=8" alt="Tools">
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,androidstudio,jupyter&theme=dark&perline=8" alt="Tools">
 
 </div>
 
