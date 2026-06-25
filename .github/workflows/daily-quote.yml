@@ -1,0 +1,29 @@
+name: Daily Dev Quote
+
+# Auto-updates the <!--START_SECTION:quote--> block in README.md
+# with a fresh developer quote every day.
+# Works out of the box — no API keys required.
+
+on:
+  schedule:
+    # Once a day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    name: Update daily quote in README
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: maheshjainckd/quote-readme@master
+        with:
+          # Uses the default <!--START_SECTION:quote--> marker
+          OWNER: "Danyal-Ahmad"

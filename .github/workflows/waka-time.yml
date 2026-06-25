@@ -1,0 +1,44 @@
+name: WakaTime Coding Stats
+
+# Auto-updates the <!--START_SECTION:waka--> block in README.md
+# with the latest WakaTime coding stats (languages, editors, OS, projects).
+#
+# Requires a WAKATIME_API_KEY secret in your repo:
+#   1. Sign up at https://wakatime.com/ (free)
+#   2. Install the WakaTime plugin in your editor (VS Code, JetBrains, etc.)
+#   3. Get your API key from https://wakatime.com/settings/account
+#   4. Add it as a repo secret named WAKATIME_API_KEY
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-waka:
+    runs-on: ubuntu-latest
+    name: Update WakaTime stats in README
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Section marker in README.md
+          SHOW_MONTHLY: "False"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHANGED: "True"
+          BLOCKS: "░▒▓█"
+          CODE_LANG: "python"
