@@ -1,5 +1,12 @@
 name: Metrics
 
+# Regenerates github-metrics.svg daily with live data from the GitHub API.
+# The repo ships with a static, hand-crafted SVG already containing real
+# data — this workflow overwrites it with an auto-generated dashboard
+# from lowlighter/metrics so the numbers stay fresh over time.
+#
+# Requires the METRICS_TOKEN secret (see SETUP.md).
+
 on:
   schedule:
     - cron: "0 0 * * *"
