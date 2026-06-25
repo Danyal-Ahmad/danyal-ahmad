@@ -21,7 +21,7 @@
   <text x="56" y="96" class="mono" font-size="24" font-weight="700" fill="#0A0A0A" text-anchor="middle">DA</text>
 
   <!-- Name + handle -->
-  <text x="104" y="76" class="mono" font-size="18" font-weight="700" fill="#FFFFFF">Danyal Ahmaad</text>
+  <text x="104" y="76" class="mono" font-size="18" font-weight="700" fill="#FFFFFF">Danyal Ahmad</text>
   <text x="104" y="94" class="mono" font-size="12" fill="#0A66C2">@Danyal-Ahmad</text>
   <text x="104" y="112" class="mono" font-size="11" fill="#A9A9A9">AI · ML Engineer · Pakistan</text>
 
@@ -31,7 +31,7 @@
   <text x="916" y="108" class="mono" font-size="10" fill="#E8FA03" text-anchor="end">● Hireable</text>
 
   <!-- Bio -->
-  <text x="24" y="142" class="mono" font-size="11" fill="#FFFFFF">Hi! I'm Danyal Ahmad a developer specializing in modern</text>
+  <text x="24" y="142" class="mono" font-size="11" fill="#FFFFFF">Hi! I'm Danyal Ahmad — a developer specializing in modern</text>
   <text x="24" y="158" class="mono" font-size="11" fill="#FFFFFF">web &amp; mobile applications, AI/ML projects, and intelligent solutions.</text>
 
   <!-- Section: STATS -->
