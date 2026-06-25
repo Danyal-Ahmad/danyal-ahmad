@@ -11,7 +11,7 @@
 <!-- ── Large typing name ────────────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=60&duration=2800&pause=600&color=0A66C2&center=true&vCenter=true&width=700&height=80&lines=DANYAL+AHMAD;AI+%C2%B7+ML+Engineer;CS+Undergrad+%C2%B7+Pakistan;Research+%E2%86%92+Production" alt="Name typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2800&pause=600&color=0A66C2&center=true&vCenter=true&width=540&lines=DANYAL+AHMAD;AI+%C2%B7+ML+Engineer;CS+Undergrad+%C2%B7+Pakistan;Research+%E2%86%92+Production" alt="Name typing">
 
 <br/>
 
