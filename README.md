@@ -76,16 +76,6 @@ I treat every project like it has to defend itself in production. Read the paper
 
 <div align="center">
 
-<!-- Live stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Danyal-Ahmad&show_icons=true&hide_border=true&theme=default&count_private=true&rank_icon=github&border_radius=0&bg_color=0A0A0A&title_color=0A66C2&text_color=FFFFFF&icon_color=E8FA03" alt="Stats">
-
-&nbsp;
-
-<!-- Live top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Ahmad&layout=compact&hide_border=true&theme=default&langs_count=8&border_radius=0&bg_color=0A0A0A&title_color=0A66C2&text_color=FFFFFF" alt="Top Languages">
-
-<br/><br/>
-
 <!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danyal-Ahmad&theme=react-dark&hide_border=true&area=true&color=0A66C2&line=0A66C2&point=E8FA03&height=240&bg_color=0A0A0A" alt="Activity Graph">
 
